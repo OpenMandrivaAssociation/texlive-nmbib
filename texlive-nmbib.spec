@@ -1,6 +1,6 @@
 Name:		texlive-nmbib
-Version:	37984
-Release:	2
+Version:	71138
+Release:	1
 Summary:	Multiple versions of a bibliography, with different sort orders
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/nmbib
