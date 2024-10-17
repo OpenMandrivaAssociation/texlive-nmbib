@@ -3,7 +3,7 @@ Version:	71138
 Release:	1
 Summary:	Multiple versions of a bibliography, with different sort orders
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/nmbib
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/nmbib
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/nmbib.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/nmbib.doc.r%{version}.tar.xz
